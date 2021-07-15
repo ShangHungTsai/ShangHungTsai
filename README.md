@@ -4,9 +4,9 @@
 
 - :building_construction: Working at 柯萊博瑞
 - :house_with_garden: Living at Taiwan/Taipei
-- 🌱 Intrest with Game Design / Life Hacker / Exercise
-- 📫 How to reach me: ssss12379@gmail.com
 - 📚 MyBlog: [ShangHungTsai.github.io](https://ShangHungTsai.github.io)
+- 📫 How to reach me: ssss12379@gmail.com
+- 🌱 Intrest with Game Design / Life Hacker / Exercise
 
 
 
