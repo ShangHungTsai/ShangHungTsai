@@ -6,7 +6,8 @@
 - :house_with_garden: Living at Taiwan/Taipei
 - 📚 MyBlog: [ShangHungTsai.github.io](https://ShangHungTsai.github.io)
 - 📫 How to reach me: ssss12379@gmail.com
-- 🌱 Intrest with Game Design / Life Hacker / Exercise
+- 🌱 Intrest with
+     Game Design 🎮 / Life Hacker🎭 / Exercise 💪🏻 
 
 
 
