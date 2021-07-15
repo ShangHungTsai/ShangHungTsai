@@ -2,7 +2,7 @@
 
 ### Hello, World! :tada::tada::tada:
 
-- :building_construction: Working at 柯萊博瑞
+- :building_construction: Working at 科萊博瑞
 - :house_with_garden: Living at Taiwan/Taipei
 - 📚 MyBlog: [ShangHungTsai.github.io](https://ShangHungTsai.github.io)
 - 📫 How to reach me: ssss12379@gmail.com
