@@ -2,7 +2,7 @@
 
 ### Hello, World! :tada::tada::tada:
 
-- :building_construction: Working at 科萊博瑞
+- :building_construction: Working at 笛雅奇遊戲 Dyadicgames
 - :house_with_garden: Living at Taiwan/Taipei
 - 📚 MyBlog: [Notion-Blog](https://notion-blog-shanghungtsai.vercel.app/)
 - 📫 How to reach me: ssss12379@gmail.com
